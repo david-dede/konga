@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first_section{
+    display: inline-block;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.first_section img{
+    width: 100px;
+    height: 17.6px;
+}
+.first_section a:nth-child(2) img{
+    width: 70.6px;
+    height: 18px;
+    
+}
+.first_section a:nth-child(7) img{
+    width: 75.5px;
+    height: 18px;
+}
+.first_section a:nth-child(8) img{
+    height: 18px;
+}
+.second_section{
+    background-color: rgb(237, 2, 127);
+    display: flex;
+    padding: 10px;
+}
+.second_section img{
+    width: 127.5px;
+    height: 35px;
+}
+.second_section .items{
+    display: flex;
+    color: white;
+    font-size: 13px;
+    justify-content: space-evenly;
+    padding: 0px 50px;
+    margin-left: 40px;
+    justify-content: center;
+    align-items: center;
+
+}
+.second_section .items div{
+    padding: 0px 15px ;
+}
+/* .second_section .items div:hover{
+    background-color: white;
+    color: white;
+} */
+.second_section .items div:nth-child(6) {
+padding: 0px 15px;
+}
+.second_section .items div:nth-child(3) {
+    padding: 0px ;
+}
+
+.search{
+    background-color: white;
+    color: gainsboro;
+    display: flex;
+    height: 32px;
+    border-radius: 3px;
+   
+}
+.search .part1{
+    width: 557px;
+}
+.search .part2{
+    background-color: rgb(251, 161, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0px 3px 3px 0px;
+}
+.second_section button{
+    background-color: rgb(52, 178, 122);
+    color: white;
+    border: none;
+    padding: 15px 20px ;
+    display: flex;
+    border-radius: 2px;
+}
+/* .second_section button .zero{
+    background-color: white;
+    counter-reset: black;
+    height: 10px;
+} */
