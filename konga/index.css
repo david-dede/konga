@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 .first_section{
-    /* display: inline-block; */
-    /* display: flex; */
+    display: inline-block;
+    display: flex;
     gap: 50px;
     align-items: center;
     justify-content: center;
