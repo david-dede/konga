@@ -64,8 +64,8 @@ padding: 0px 15px;
 .search{
     background-color: white;
     color: gainsboro;
-    display: flex;
-    height: 32px;
+    /* display: flex; */
+    /* height: 32px; */
     border-radius: 3px;
    
 }
