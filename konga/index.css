@@ -76,8 +76,8 @@ padding: 0px 15px;
     background-color: rgb(251, 161, 0);
     display: flex;
     align-items: center;
-    /* justify-content: center; */
-    /* border-radius: 0px 3px 3px 0px; */
+    justify-content: center;
+    border-radius: 0px 3px 3px 0px;
 }
 .second_section button{
     background-color: rgb(52, 178, 122);
