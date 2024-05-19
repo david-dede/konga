@@ -120,6 +120,7 @@ padding: 0px 15px;
                     margin: 0;
                     padding: 0;
                     background-color: #f4f4f4;
+                    overflow-x: initial;
                 }
         
                 .container {
@@ -130,7 +131,7 @@ padding: 0px 15px;
         
                 .row {
                     display: flex;
-                    flex-wrap: wrap;
+                    /* flex-wrap: wrap; */
                     gap: 20px;
                 }
         

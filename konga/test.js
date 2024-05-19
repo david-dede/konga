@@ -299,6 +299,18 @@ let product = [
     price: "¥838.55",
     images: "image/1.jpeg",
   },
+  {
+    id: 50,
+    product_name: "david Tubes",
+    price: "¥838.55",
+    images: "image/1.jpeg",
+  },
+  {
+    id: 50,
+    product_name: "benson Tubes",
+    price: "¥838.55",
+    images: "image/1.jpeg",
+  },
 ];
 
 function employeedata() {
